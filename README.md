@@ -1,4 +1,3 @@
-Vídeo-Tutorial en Youtube: https://youtu.be/bbZBz3ltues
 # LOGOTIPOS PARA LOS CANALES NACIONALES Y LOCALES ESPAÑOLES
 El proyecto siguiente está orientado a la creación de los logotipos oficiales de los canales españoles de Televisión, ya sea a nivel nacional o comunitarios.
 
@@ -23,7 +22,7 @@ Instalación de las URL's para los logotipos bajo TVHeadend:
 3- En el campo: "Channel icon name scheme" marcaremos "No scheme" para adaptarlo a este repositorio.
 El resto de opciones las dejaremos tal cual están y en la parte superior iquierda pulsaremos en "SAVE" para que los cambios tengan efecto.
 
--Ahora vamos a: "Configuration --> General --> Image cache" en este menú marcaremos "Enabled" y "Ignore invalid SSL certificate" el resto lo dejamos tal cual está por defecto y volvemos a darle a "Save" para guardar los cambios.
+-Ahora vamos a: "Configuration --> General --> Image cache" en este menú marcaremos "Enabled" y "Ignore invalid SSL certificate" el resto lo dejamos tal cual está por defecto y volvemos a darle a "Save" para guardar los cambios. En versiones antiguas (Tvheadend 4.3)(package Synology) no aparece la pestaña "Image Cache", por lo que omitiremos este paso.
 
 -Por último, vamos a "Configuration --> Channel / EPG --> Channels" vamos a la parte inferior derecha de la ventana y donde nos indica cuantos canales mostrar por página, le indicaremos que nos los muestre todos, es decir, "All".
 
@@ -31,10 +30,6 @@ Marcamos uno a uno todos los canales o podemos valernos de las teclas "Shift + C
 
 URL's Logotipos.
 --------------------------------------------------------------------------------------------------------------------
-1- DVB-T o TDT: https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/%C.png
+DVB-T o TDT: https://raw.githubusercontent.com/Truman78es/Picons-IPTV/master/main/transparentes/%C.png
 
--Logos Actualizados el 23 de Marzo de 2019
-
-2- Movistar-TV o IPTV: https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/development/IPTV/MoviStar%2B/%C.png (en desarrollo)
-
--Logos Actualizados el 21 de Diciembre de 2016
+-Logos Actualizados el 09 de noviembre de 2022
