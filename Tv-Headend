@@ -1,15 +1,12 @@
-Vídeo-Tutorial en Youtube: https://youtu.be/bbZBz3ltues
-
 Añadir logotipos a TV-Headend 3.8 y superiores.
-Abra el interface Web o WebUI, esto lo podrá hacer tecleando la IP del equipo que contiene TV-Headend instalado; Ejemplo: http://192.168.1.34:9981
+
+Abra el interface Web o WebUI, esto lo podrá hacer tecleando la IP del equipo que contiene TV-Headend instalado; Ejemplo: http://192.168.1.100:9981
 A continuación, vaya a Configuración >> General >> "Base" y busque Picon. (Base está entre comillado porque esta opción puede no estar en todas las versiones)
 Allí marcamos: 
-Prefer picon over channel name. CHEQUEADA, MARCADA o VALIDADA como queramos llamarlo.
-Channel icon path (see Help): aquí pondremos: https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/%C.png
+Prefer picon over channel name. MARCADA
+Channel icon path (see Help): aquí pondremos: https://raw.githubusercontent.com/Truman78es/Picons-IPTV/master/main/transparentes/%C.png
 
-OJO, respetar MAYÚSCULAS Y MINÚSCULAS y fijaros en al URL, el campo <transparente> sin los simbolos <> este valor podrá ser cambiado en el futuro por unos logotipos con el fondo blanco si lo prefieres.
-
--he empezado con los iconos de MoviStarTV y por esto no me he puesto con los iconos en blanco.
+OJO, respetar MAYÚSCULAS Y MINÚSCULAS y fijaros en al URL
 
 Dicho todo esto, actualizamos en la opción de Channels / EPG >> Channels. Ahora en la parte inferior derecha, marcamos donde dice cuantos canales mostrar, Marcamos ALL para que nos muestre todos.
 Una vez que nos esta indicando todos los canales, pulsamos en el primero de la lista en cima de su nombre, para que se quede en AZUL, a continuación, vamos al final de la lista y con la tecla CTRL+SHILF hacemos click en el último canal, de este modos se nos marcan todos los canales en azul.
