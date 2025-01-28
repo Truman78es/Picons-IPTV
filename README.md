@@ -32,4 +32,4 @@ URL's Logotipos.
 --------------------------------------------------------------------------------------------------------------------
 DVB-T o TDT: https://raw.githubusercontent.com/Truman78es/Picons-IPTV/master/main/transparentes/%C.png
 
--Logos Actualizados el 24 de febrero de 2024
+-Logos Actualizados el 28 de enero de 2025
